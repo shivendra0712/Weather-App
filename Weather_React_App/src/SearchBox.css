@@ -1,8 +1,7 @@
 .add{
     margin: 10px ;
     height: 100px;
-    font-weight: 2px;
-    display: flex;
+    
     background-color: beige;
     color: blue;
 }
